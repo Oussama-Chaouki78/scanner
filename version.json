@@ -1,0 +1,9 @@
+{
+  "version": "3.5.7",
+  "downloadUrl": "https://github.com/Oussama-Chaouki78/scanner/releases/download/v3.6.0/scanner-3.6.0.apk",
+  "changes": [
+    "Upload/Replace (existing) Image directly from the app for that just scanned a details item and you'll see the icon"
+  ],
+  "minSupportedVersion": "3.5.0",
+  "releaseDate": "2024-01-15"
+}
