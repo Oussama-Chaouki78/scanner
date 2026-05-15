@@ -2,7 +2,7 @@
   "version": "3.6.2",
   "downloadUrl": "https://github.com/Oussama-Chaouki78/scanner/releases/download/v3.6.1/scanner-3.6.2.apk",
   "changes": [
-    "Upload/Replace (existing) Image directly from the app for that just scanned a details item and you'll see the icon"
+    "Localization features and scanner fixes"
   ],
   "minSupportedVersion": "3.5.0",
   "releaseDate": "2024-01-15"
