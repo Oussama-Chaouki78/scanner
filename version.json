@@ -1,9 +1,9 @@
 {
-  "version": "3.6.2",
-  "downloadUrl": "https://github.com/Oussama-Chaouki78/scanner/releases/download/v3.6.2/scanner-3.6.2.apk",
+  "version": "3.6.3",
+  "downloadUrl": "https://github.com/Oussama-Chaouki78/scanner/releases/download/v3.6.3/scanner-3.6.3.apk",
   "changes": [
     "Localization features and scanner fixes"
   ],
-  "minSupportedVersion": "3.5.0",
+  "minSupportedVersion": "3.6.1",
   "releaseDate": "2024-01-15"
 }
