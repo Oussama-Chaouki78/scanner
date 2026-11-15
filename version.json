@@ -7,6 +7,6 @@
     "Correctif iOS : photo depuis la galerie",
     "Correctifs de sécurité et de stabilité"
   ],
-  "minSupportedVersion": "3.6.1",
+  "minSupportedVersion": "3.8.0",
   "releaseDate": "2026-11-14"
 }
