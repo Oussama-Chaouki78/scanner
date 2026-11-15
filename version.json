@@ -1,12 +1,13 @@
 {
-  "version": "3.8.0",
-  "downloadUrl": "https://github.com/Oussama-Chaouki78/scanner/releases/download/v3.8.0/scanner-3.8.0.apk",
+  "version": "3.9.3",
+  "downloadUrl": "https://github.com/Oussama-Chaouki78/scanner/releases/download/v3.9.3/scanner-3.9.3.apk",
   "changes": [
-    "Connexion NetSuite sécurisée (OAuth 2.0)",
-    "Scan des immobilisations avec fiche dédiée et photos",
-    "Correctif iOS : photo depuis la galerie",
-    "Correctifs de sécurité et de stabilité"
+    "Nouveau design et nouveau logo",
+    "Barre d'onglets avec bouton Scanner central",
+    "La session reste ouverte entre deux utilisations",
+    "Mise à jour : reprise automatique si le téléphone se verrouille",
+    "Correctifs : historique, transfert, sécurité"
   ],
-  "minSupportedVersion": "3.8.0",
-  "releaseDate": "2026-11-14"
+  "minSupportedVersion": "3.9.3",
+  "releaseDate": "2026-11-15"
 }
