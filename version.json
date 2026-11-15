@@ -1,13 +1,12 @@
 {
-  "version": "3.9.3",
-  "downloadUrl": "https://github.com/Oussama-Chaouki78/scanner/releases/download/v3.9.3/scanner-3.9.3.apk",
+  "version": "3.9.4",
+  "downloadUrl": "https://github.com/Oussama-Chaouki78/scanner/releases/download/v3.9.4/scanner-3.9.4.apk",
   "changes": [
-    "Nouveau design et nouveau logo",
-    "Barre d'onglets avec bouton Scanner central",
-    "La session reste ouverte entre deux utilisations",
-    "Mise à jour : reprise automatique si le téléphone se verrouille",
-    "Correctifs : historique, transfert, sécurité"
+    "Gate : la session ne se ferme plus au bout d'une heure",
+    "Feuilles gasoil : nouveau serveur de lecture",
+    "Messages d'erreur plus clairs",
+    "Sécurité"
   ],
-  "minSupportedVersion": "3.9.3",
+  "minSupportedVersion": "3.9.4",
   "releaseDate": "2026-11-15"
 }
