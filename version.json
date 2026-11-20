@@ -1,9 +1,9 @@
 {
-  "version": "3.9.6",
-  "downloadUrl": "https://github.com/Oussama-Chaouki78/scanner/releases/download/v3.9.6/scanner-3.9.6.apk",
+  "version": "3.9.7",
+  "downloadUrl": "https://expo.dev/artifacts/eas/BeVi1YWiCC8LV3QCACDw1F6YVOx2wblQpdrqEY_qgFo.apk",
   "changes": [
-    "Correction : les écrans de scan restaient bloqués sur la demande d'autorisation de caméra (téléphones Honor)",
-    "Nouvel écran d'attente caméra avec Réessayer et Ouvrir les réglages"
+    "Mises à jour automatiques en arrière-plan à partir de cette version",
+    "Correction de l'affichage de l'écran Transfert d'inventaire"
   ],
   "minSupportedVersion": "3.9.5",
   "releaseDate": "2026-11-20"
