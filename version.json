@@ -1,10 +1,10 @@
 {
-  "version": "3.9.5",
-  "downloadUrl": "https://github.com/Oussama-Chaouki78/scanner/releases/download/v3.9.5/scanner-3.9.5.apk",
+  "version": "3.9.6",
+  "downloadUrl": "https://github.com/Oussama-Chaouki78/scanner/releases/download/v3.9.6/scanner-3.9.6.apk",
   "changes": [
-    "Correction : le scan échouait par moments (surtout les immobilisations)",
-    "Un code-barres n'est plus envoyé qu'une seule fois à NetSuite"
+    "Correction : les écrans de scan restaient bloqués sur la demande d'autorisation de caméra (téléphones Honor)",
+    "Nouvel écran d'attente caméra avec Réessayer et Ouvrir les réglages"
   ],
   "minSupportedVersion": "3.9.5",
-  "releaseDate": "2026-11-16"
+  "releaseDate": "2026-11-20"
 }
